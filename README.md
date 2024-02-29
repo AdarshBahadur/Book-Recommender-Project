@@ -31,7 +31,7 @@ In summary, our user profile approach not only delves into understanding individ
 
 ## Dataset
 
-The dataset, a vital component of this project, was sourced from Kaggle. Our sincere appreciation goes to the original contributors for providing access to this valuable resource. You can access the dataset [here](insert Kaggle dataset link).
+The dataset, a vital component of this project, was sourced from Kaggle. Our sincere appreciation goes to the original contributors for providing access to this valuable resource
 
 # Data Preparation
 
