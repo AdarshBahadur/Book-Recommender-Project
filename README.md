@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Book Recommender System is a sophisticated data engineering project tailored to provide personalized book recommendations based on user preferences and behavior. Leveraging a blend of advanced data extraction, transformation, and loading processes, this system delivers refined suggestions to cater to diverse reading tastes.
+The Book Recommender System is a data engineering project tailored to provide personalized book recommendations based on the dataset of users' preferences and behavior. Leveraging a blend of advanced data extraction, transformation, and loading processes, this system delivers refined suggestions to cater to diverse reading tastes.
 
 #### Visit our website
 **[Explore Now](https://book-recommender.up.railway.app/)**
@@ -21,7 +21,7 @@ Our foundational dataset, graciously sourced from Kaggle's extensive literary re
 In the initial phase, we seamlessly extracted comprehensive book-related data from varied sources. This diverse dataset serves as the bedrock for our recommendation models. Subsequently, a meticulous transformation journey ensured the dataset's alignment with two distinct recommendation approaches.
 
 
-## Recommendation System Types
+## Recommendation System Approaches
 
 ### **Top Rated Recommendations:**
 
@@ -35,9 +35,6 @@ The second recommendation approach relies on the vector closeness or similarity 
 
 In summary, our user profile approach not only delves into understanding individual preferences but also encompasses a robust data extraction and transformation process supporting two distinctive recommendation methodologies.
 
-## Dataset
-
-The dataset, a vital component of this project, was sourced from Kaggle. Our sincere appreciation goes to the original contributors for providing access to this valuable resource
 
 # Data Preparation
 
@@ -55,7 +52,7 @@ Preserving the integrity and accuracy of our dataset demanded a rigorous approac
 
 ### Format Standardization
 
-Uniformity in data formats played a pivotal role in enabling seamless processing across the dataset. Our emphasis on format standardization ensured that the data, sourced from diverse origins, spoke a consistent language. This facilitated a harmonious integration of information, allowing for more efficient analysis and model training.
+Uniformity in data formats played a pivotal role in enabling seamless processing across the dataset. Our emphasis on format standardization ensured that the data, sourced from diverse origins, spoke a consistent language. This facilitated a harmonious integration of information more efficiently.
 
 ### Feature Engineering
 
@@ -72,6 +69,7 @@ The culmination of these efforts resulted in a dataset that goes beyond cleanlin
 
 - **Python:** The programming language used for backend development.
 - **Pandas:** The data manipulation library for data preprocessing.
+- **NumPy:** Elevating numerical computation and array manipulation within the Project.
 - **Scikit-learn:** The machine learning library for building recommendation models.
 - **Pickle:** The serialization library for storing and retrieving Python objects.
 - **Railway App:** The hosting platform for deploying the Book Recommender System.
