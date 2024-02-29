@@ -20,10 +20,12 @@ In the initial phase, we seamlessly extracted comprehensive book-related data fr
 ### **Top Rated Recommendations:**
 
 This approach hones in on the preferences of well-read individuals, extracting insights from top-rated selections. This method captures the essence of literary preferences among seasoned readers, shaping personalized book suggestions aligned with discerning tastes.
+![Top Rated Recommendations](https://github.com/AdarshBahadur/book-recommender-project/blob/main/Top_Rated_Recommendations.png?raw=true)
 
 ### **Similarity-Based Recommendations:**
 
 The second recommendation approach relies on the vector closeness or similarity of books. Leveraging advanced techniques, we calculate the closeness of each book to others in the dataset. This results in a system that recommends books based on inherent similarities, offering users a diverse and engaging selection beyond explicit ratings.
+![Similarity-Based Recommendations](https://github.com/AdarshBahadur/book-recommender-project/blob/main/Similarity_Based_Recommendations.png?raw=true)
 
 In summary, our user profile approach not only delves into understanding individual preferences but also encompasses a robust data extraction and transformation process supporting two distinctive recommendation methodologies.
 
