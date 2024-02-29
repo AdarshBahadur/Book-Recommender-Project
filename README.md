@@ -59,12 +59,8 @@ The process of feature engineering was not just a means of refinement; it was a 
 
 The culmination of these efforts resulted in a dataset that goes beyond cleanliness and organization. It stands as a testament to our commitment to providing a recommendation system that not only suggests books but does so with a profound understanding of user preferences and a keen awareness of the intricacies within the literary world.
 
-This enriched and transformed dataset has been thoughtfully organized within the repository under the `data` directory, serving as a valuable resource for users, researchers, and enthusiasts alike.
 
 
-## Architecture
-
-[//]: # (If applicable, add an architecture diagram or relevant images here)
 
 ## Technologies Used
 
